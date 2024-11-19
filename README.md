@@ -6,6 +6,7 @@ Pertanyaan :
 1. menurut kalian apa yang di maksud dengan server side __S__ ing dan bagaimana cara kerja  nya
 2. buat 1 __S__ php untuk memunculkan nim, nama dan kelas masing-masing
 Jawaban soal 1:
+
 Serve-side scripting (atau skrip sisi server) itu jenis pengolahan atau pemrograman yang di lakukan di server web (tempat aplikasi atau situs web di-host),
 dimana kode atau skrip di jalankan di server untuk menghasilkan output yang kemudian di kirimkan ke browser klien. Skrip ini berjalan di server bukan di computer pengguna.
 
